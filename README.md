@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu27-git&theme=tokyonight&hide_border=true&cache_buster=1" width="60%" alt="GitHub Streak Stats" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshu27-git&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak Stats" />
 
   <br><br>
 
