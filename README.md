@@ -12,11 +12,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"  width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true"  width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu27-git&theme=tokyo-night&hide_border=true" width="100%"/>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=priyanshu27-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
