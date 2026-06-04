@@ -12,11 +12,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu27-git&theme=tokyonight&hide_border=true"  width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu27-git&theme=tokyonight&hide_border=true&cache_buster=1" width="60%" alt="GitHub Streak Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu27-git&theme=tokyo-night&hide_border=true" width="100%"/>
+  <br><br>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=priyanshu27-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu27-git&theme=tokyo-night&hide_border=true&cache_buster=1" width="100%" alt="GitHub Activity Graph" />
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu27-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&cache_buster=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -136,8 +140,8 @@ My tech journey is driven by hands-on building and continuous learning. From dev
 
 ### 📬 Let's Build Something Amazing Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusahu/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshu27-git)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshusahu2694@gmail.com@gmail.com)
 
 </div>
