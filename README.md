@@ -18,7 +18,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu27-git&theme=tokyo-night&hide_border=true&cache_buster=1" width="100%" alt="GitHub Activity Graph" />
 
-  <br><br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshu27-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&cache_buster=1" alt="GitHub Trophies" />
 
